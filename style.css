@@ -1,10 +1,14 @@
+.card-price {
+    width: 25%;
+}
+
 .card-list {
     list-style: none;
     padding: 2px;
 }
 
 .card-body {
-    margin: 50px;
+    /*margin: 50px;*/
     border-radius: 15px;
 
 
